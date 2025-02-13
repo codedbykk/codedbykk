@@ -4,6 +4,7 @@ I am a proficient Web and App Developer with over 4 years of experience speciali
 # 🚀 Skills
 Frontend:
 👉 React.js, Next.js, Flutter (Android & iOS)
+
 👉 UI Frameworks: MUI, Bootstrap, Tailwind, ANTD, Chakra UI
 
 Backend:
@@ -11,6 +12,7 @@ Backend:
 
 Databases:
 👉 SQL (PostgreSQL, MySQL, MSSQL, AWS RDS)
+
 👉 NoSQL (MongoDB, DynamoDB)
 
 Cloud & DevOps:
